@@ -1,0 +1,6 @@
+*.kicad_sch.lck
+*.kicad_pcb.lck
+
+_autosave-*
+
+fp-info-cache
